@@ -1,5 +1,5 @@
 # android-http
-Java classes for making Android HTTP(S) Requests easier and convenient
+Java classes for making Android HTTPs requests easier and convenient
 
 
 # Usage
